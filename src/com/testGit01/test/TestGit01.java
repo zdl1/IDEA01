@@ -10,4 +10,8 @@ public class TestGit01 {
     public static void main(String[] args) {
         System.out.println("This is my first git commit with IDEA!");
     }
+
+    void test01(){
+        System.out.println("test01");
+    }
 }
